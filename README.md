@@ -18,4 +18,4 @@ cd vulnerable-arena
 pip install -r requirements.txt
 sqlite3 db.sqlite3 < db_init.sql
 python app.py
-go in web 127.0.0.1:500
+open web 127.0.0.1:500
